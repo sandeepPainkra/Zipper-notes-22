@@ -1,0 +1,41 @@
+.register {
+  width: 100%;
+  height: 92vh;
+}
+.register h1 {
+  font-size: 4rem;
+  font-weight: 300;
+  color: grey;
+  margin-bottom: 0.3rem;
+}
+
+.register form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 0.7rem 0.8rem;
+}
+
+.register form .inputHeading {
+  font-size: 1.2rem;
+  color: rgb(92, 91, 91);
+  margin: 0.8rem 0 0.4rem;
+}
+
+.register form input {
+  width: 100%;
+  padding: 0.6rem 0.8rem;
+  font-size: 1rem;
+  outline: none;
+  border: 1px solid grey;
+  border-radius: 5px;
+  color: rgb(77, 77, 77);
+}
+.register button {
+  max-width: 7rem;
+  margin: 1rem 0;
+}
+
+.register a {
+  color: rgb(0, 0, 168);
+}

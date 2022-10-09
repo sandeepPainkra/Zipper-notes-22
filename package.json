@@ -1,0 +1,19 @@
+{
+  "name": "zipper-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepPainkra/Zipper-Note.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepPainkra/Zipper-Note/issues"
+  },
+  "homepage": "https://github.com/sandeepPainkra/Zipper-Note#readme"
+}

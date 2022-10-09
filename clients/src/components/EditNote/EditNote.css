@@ -1,0 +1,9 @@
+.editNote {
+  width: 100%;
+  height: 92vh;
+}
+.editNote h1 {
+  font-size: 4rem;
+  font-weight: 300;
+  color: grey;
+}
